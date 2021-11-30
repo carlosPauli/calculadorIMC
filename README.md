@@ -6,6 +6,3 @@
  
  <p> A idéia do aplicativo é basicamente você poder calcular o seu IMC para ver como está sua saúde, sendo que o app utiliza da tabela oficial e lhe traz o resultado </p>
  
- <h1> Tela principal do App </h1>
- 
- <img src="calculadorIMC/Calculadora_IMC/TelaPrincipal.png">
