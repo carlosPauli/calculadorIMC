@@ -8,4 +8,4 @@
  
  <h1> Tela principal do App </h1>
  
- <img src="CalculadoraIMC/TelaPrincipal.png">
+ <img src="calculadorIMC/Calculadora_IMC/TelaPrincipal.png">
